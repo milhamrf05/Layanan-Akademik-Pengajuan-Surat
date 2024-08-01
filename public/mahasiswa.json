@@ -1,0 +1,887 @@
+[
+    {
+        "NIM": "3011610004",
+        "Nama": "Ahmad Nur Abdillah",
+        "e-mail": "ahmad.abdillah16@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011610051",
+        "Nama": "Vardian Bagus Firmansyah",
+        "e-mail": "vardian.firmansyah16@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011710054",
+        "Nama": "Rizki Aula Rahim",
+        "e-mail": "rizki.rahim17@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011810005",
+        "Nama": "Ahmad I'tishom Al Husain",
+        "e-mail": "ahmad.husain18@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011810028",
+        "Nama": "Moh Saif Satria",
+        "e-mail": "moh.satria18@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011810036",
+        "Nama": "Muhammad Fakhruddin Hilmi Dwiyanto",
+        "e-mail": "muhammad.dwiyanto18@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011810039",
+        "Nama": "Muhammad Ihsan Abdulloh",
+        "e-mail": "muhammad.abdulloh18@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011810050",
+        "Nama": "Taris Rafiqi Izatri",
+        "e-mail": "taris.izatri18@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910005",
+        "Nama": "Aditya Rizky Arifin",
+        "e-mail": "aditya.arifin19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910011",
+        "Nama": "Aslam Zulvan",
+        "e-mail": "aslam.zulvan19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910013",
+        "Nama": "Bayu Marsya Nugrafitra",
+        "e-mail": "bayu.nugrafitra19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910014",
+        "Nama": "Fany Indah Wardianti",
+        "e-mail": "fany.wardianti19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910017",
+        "Nama": "Johan Pratama Putra",
+        "e-mail": "johan.putra19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910018",
+        "Nama": "Jordino Bamby Handoko",
+        "e-mail": "jordino.handoko19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910023",
+        "Nama": "Mochammad Harisman",
+        "e-mail": "mochammad.harisman19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910024",
+        "Nama": "Mohamad Lukman Baihaqi",
+        "e-mail": "mohamad.baihaqi19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910029",
+        "Nama": "Muhammad Muhsinul Khuluq",
+        "e-mail": "muhammad.khuluq19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910033",
+        "Nama": "Nadia Nandatama Syahrani",
+        "e-mail": "nadia.syahrani19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910043",
+        "Nama": "Reza Achmad Ramadhani",
+        "e-mail": "reza.ramadhani19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910044",
+        "Nama": "Septian Fajar Priyanda Putra",
+        "e-mail": "septian.putra19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3011910501",
+        "Nama": "Muhammad Hendra Prayogo",
+        "e-mail": "muhammad.prayogo19@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010001",
+        "Nama": "A. Arjuna Putra Nganro",
+        "e-mail": "a.nganro20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010005",
+        "Nama": "Bangun Putra Himawan",
+        "e-mail": "bangun.himawan20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010008",
+        "Nama": "Dendra Ardana Putra",
+        "e-mail": "dendra.putra20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010009",
+        "Nama": "Dhimas Fahmi Rizaldi",
+        "e-mail": "dhimas.rizaldi20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010010",
+        "Nama": "Elfanisa Lukitasari",
+        "e-mail": "elfanisa.lukitasari20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010011",
+        "Nama": "Fajar Anggito Abimanyu",
+        "e-mail": "fajar.abimanyu20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010012",
+        "Nama": "Farid Hidayatullah",
+        "e-mail": "farid.hidayatullah20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010015",
+        "Nama": "Mochammad Ilham Ramadhan Firmansyah",
+        "e-mail": "mochammad.firmansyah20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010016",
+        "Nama": "Moh Iqbal Maulana",
+        "e-mail": "moh.maulana20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010017",
+        "Nama": "Moh Kafil Anjani",
+        "e-mail": "moh.anjani20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010018",
+        "Nama": "Muhammad Abid Murtadho",
+        "e-mail": "muhammad.murtadho20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010019",
+        "Nama": "Muhammad Faiz Alil Himmah",
+        "e-mail": "muhammad.himmah20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010020",
+        "Nama": "Muhammad Farikh Naufal Tajuddin",
+        "e-mail": "muhammad.tajuddin20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010021",
+        "Nama": "Muhammad Iqbal Pratama",
+        "e-mail": "muhammad.pratama20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010022",
+        "Nama": "Nabillah Anggun Kharisma",
+        "e-mail": "nabillah.kharisma20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010023",
+        "Nama": "Nafiis Syauqi Ahmad",
+        "e-mail": "nafiis.ahmad20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010024",
+        "Nama": "Naufal Yuwan Kanugraha",
+        "e-mail": "naufal.kanugraha20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010025",
+        "Nama": "Nawwaf Syauqi Achmad",
+        "e-mail": "nawwaf.achmad20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010027",
+        "Nama": "Pradipta Shofianisa",
+        "e-mail": "pradipta.shofianisa20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010028",
+        "Nama": "Rizka Putri",
+        "e-mail": "rizka.putri20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010029",
+        "Nama": "Stevanus Nico Effendi",
+        "e-mail": "stevanus.effendi20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010030",
+        "Nama": "Sutan Parsaulian Lubis",
+        "e-mail": "sutan.lubis20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010032",
+        "Nama": "Vebriyanti Nur Fauziyah",
+        "e-mail": "vebriyanti.fauziyah20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012010702",
+        "Nama": "Dian Hafidz Tsabitul Azmi",
+        "e-mail": "dian.azmi20@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110001",
+        "Nama": "Abdillah Akbar Al Faiz",
+        "e-mail": "abdillah.faiz21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110002",
+        "Nama": "Airlangga Aldi Pratama",
+        "e-mail": "airlangga.pratama21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110003",
+        "Nama": "Andhika Wahfyudin Majid",
+        "e-mail": "andhika.majid21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110004",
+        "Nama": "Ardiva Kamila Rohmadhani",
+        "e-mail": "ardiva.rohmadhani21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110005",
+        "Nama": "Ardy Kholil Kharitsi",
+        "e-mail": "ardy.kharitsi21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110006",
+        "Nama": "Arsy Achmad Fahreza",
+        "e-mail": "arsy.fahreza21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110007",
+        "Nama": "Arya Putra Kusuma",
+        "e-mail": "arya.kusuma21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110009",
+        "Nama": "Bima Fahrudin Yusup",
+        "e-mail": "bima.yusup21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110010",
+        "Nama": "Denny Hamsyah Saputra",
+        "e-mail": "denny.saputra21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110701",
+        "Nama": "Diggeo Simatupang",
+        "e-mail": "diggeo.simatupang21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110011",
+        "Nama": "Dwina Pramesti Ayu Putri",
+        "e-mail": "dwina.putri21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110702",
+        "Nama": "Fatimah Shinta Faradina",
+        "e-mail": "fatimah.faradina21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110013",
+        "Nama": "Guntur Anugroho Putra Abadi",
+        "e-mail": "guntur.abadi21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110014",
+        "Nama": "Helmaesa Diego Putra",
+        "e-mail": "helmaesa.putra21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110015",
+        "Nama": "Helmi Sebastian",
+        "e-mail": "helmi.sebastian21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110018",
+        "Nama": "Muhammad Al-Qhautzar",
+        "e-mail": "muhammad.alqhautzar21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110019",
+        "Nama": "Muhammad Ari Anggono",
+        "e-mail": "muhammad.anggono21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110703",
+        "Nama": "Muhammad Azkal Athar Betmal",
+        "e-mail": "muhammad.betmal21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110020",
+        "Nama": "Muhammad Syaifudin Hidayat",
+        "e-mail": "muhammad.hidayat21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110021",
+        "Nama": "Nahda Ainiyah Madani",
+        "e-mail": "nahda.madani21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110022",
+        "Nama": "Nehru Iliomar",
+        "e-mail": "nehru.iliomar21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110023",
+        "Nama": "Rafika Wardah Kamilah",
+        "e-mail": "rafika.kamilah21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110024",
+        "Nama": "Rafli Setiawan",
+        "e-mail": "rafli.setiawan21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110025",
+        "Nama": "Sabrina Nerissa Eriyanthi",
+        "e-mail": "sabrina.eriyanthi21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012110026",
+        "Nama": "Yeni Melinda",
+        "e-mail": "yeni.melinda21@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210702",
+        "Nama": "Achmad Wildan Muzaky",
+        "e-mail": "achmad.muzaky22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210002",
+        "Nama": "Ade Nafil Firmansah",
+        "e-mail": "ade.firmansah22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210003",
+        "Nama": "Adimas Rizky Arriza",
+        "e-mail": "adimas.arriza22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210004",
+        "Nama": "Ahmad Agustio Fathoni",
+        "e-mail": "ahmad.fathoni22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210005",
+        "Nama": "Ahmad Arya Dwi Febriansyah",
+        "e-mail": "ahmad.febriansyah22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210006",
+        "Nama": "Ahmad Zakki Maysunun",
+        "e-mail": "ahmadzakki.maysunun22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210701",
+        "Nama": "Amirrotun Nabila Romadlona",
+        "e-mail": "amirrotun.romadlona22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210007",
+        "Nama": "Andreans Pratama",
+        "e-mail": "andreans.pratama22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210008",
+        "Nama": "Andries Nauvalentin Roestam",
+        "e-mail": "andries.roestam22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210011",
+        "Nama": "David Firstian Yoandhi Pradipta",
+        "e-mail": "david.pradipta22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210012",
+        "Nama": "Dinunaya Syuja 'Aryoko",
+        "e-mail": "dinunaya.aryoko22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210013",
+        "Nama": "Em Sandi Satu Wiyanto",
+        "e-mail": "em.wiyanto22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210014",
+        "Nama": "Enjelita Samosir",
+        "e-mail": "enjelita.samosir22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210015",
+        "Nama": "Erlangga Bagas Yunanta",
+        "e-mail": "erlangga.yunanta22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210016",
+        "Nama": "Evita Rahmatul Jannah",
+        "e-mail": "evita.jannah22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210017",
+        "Nama": "Fatim Jamil",
+        "e-mail": "fatim.jamil22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210018",
+        "Nama": "Fraditian Dani Pratama",
+        "e-mail": "fraditian.pratama22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210019",
+        "Nama": "Frenky",
+        "e-mail": "frenky22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210021",
+        "Nama": "Hudiyatus Akda Abdillah",
+        "e-mail": "hudiyatus.abdillah22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210022",
+        "Nama": "Husni Mubarok",
+        "e-mail": "husni.mubarok22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210023",
+        "Nama": "Iren Abel Tarina",
+        "e-mail": "iren.tarina22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210024",
+        "Nama": "Jericho Emilio Malanguna",
+        "e-mail": "jericho.malanguna22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210025",
+        "Nama": "Joy Setiawan",
+        "e-mail": "joy.setiawan22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210026",
+        "Nama": "Lalu Tedy Adiatma Sulaeman",
+        "e-mail": "lalu.sulaeman22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210027",
+        "Nama": "M Hasan Afanda",
+        "e-mail": "m.afanda22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210028",
+        "Nama": "Moh. Dani Wahyudi",
+        "e-mail": "moh.wahyudi22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210029",
+        "Nama": "Muhammad Alvin Firdaus",
+        "e-mail": "muhammad.firdaus22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210030",
+        "Nama": "Muhammad Fajar Rafly Azka Awliya",
+        "e-mail": "muhammad.awliya22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210031",
+        "Nama": "Muhammad Naufal Ainur Rofiq",
+        "e-mail": "muhammad.rofiq22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210032",
+        "Nama": "Muhammad Nouval Surya Dhanny",
+        "e-mail": "muhammad.dhanny22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210033",
+        "Nama": "Naufal Afdillah Ikhsan",
+        "e-mail": "naufal.ikhsan22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210034",
+        "Nama": "Naufal Bagas Husodo",
+        "e-mail": "naufal.husodo22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210035",
+        "Nama": "Naurah Safina",
+        "e-mail": "naurah.safina22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210036",
+        "Nama": "Nur Amelia Ramadhani Al Hadi",
+        "e-mail": "nur.hadi22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210037",
+        "Nama": "Rayhan Pasha Putra Bahari",
+        "e-mail": "pasha.rayhan22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210038",
+        "Nama": "Putri Rahmayanti Susanto",
+        "e-mail": "putri.susanto22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210039",
+        "Nama": "Rayhan Arramadhan Willysaputra",
+        "e-mail": "rayhan.willysaputra22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210041",
+        "Nama": "Satria Tuladha Jati",
+        "e-mail": "satria.jati22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210046",
+        "Nama": "Siti Nurul Hidayati",
+        "e-mail": "siti.hidayati22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210043",
+        "Nama": "Tegar Ganesia",
+        "e-mail": "tegar.ganesia22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210044",
+        "Nama": "Thomas Sumihar Parlindungan Aruan",
+        "e-mail": "thomas.aruan22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210045",
+        "Nama": "Tri Bintang Maulana Akbar",
+        "e-mail": "tri.akbar22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210047",
+        "Nama": "Vito Agatha Satritama",
+        "e-mail": "vito.satritama22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210048",
+        "Nama": "Yogi Listianto Nurcayo",
+        "e-mail": "yogi.nurcayo22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012210049",
+        "Nama": "Zidny Alfian Barik",
+        "e-mail": "zidny.barik22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012211001",
+        "Nama": "Abiyyu Valin Zavero",
+        "e-mail": "abiyyu.zavero22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012211002",
+        "Nama": "Angelina Patricia Nazara",
+        "e-mail": "angelina.nazara22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012211003",
+        "Nama": "Fenni Verdianata",
+        "e-mail": "fenni.verdianata22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012211004",
+        "Nama": "Muhammad Irfan Zulfikar",
+        "e-mail": "muhammad.zulfikar22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012211005",
+        "Nama": "Muhammad Zainuddin Hamzan Wadi Zahid",
+        "e-mail": "muhammad.zahid22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012211006",
+        "Nama": "Riyo Jessenniako Nurmalaya",
+        "e-mail": "riyo.nurmalaya22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012211007",
+        "Nama": "Edo Putra Perdana",
+        "e-mail": "edo.perdana22@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310001",
+        "Nama": "Abinaya Arya Zaidan",
+        "e-mail": "abinaya.zaidan23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310002",
+        "Nama": "Achmad Khoirul Anwar",
+        "e-mail": "achmad.anwar23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310003",
+        "Nama": "Achmad Royhan Abdillah",
+        "e-mail": "achmad.abdillah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310048",
+        "Nama": "Agik Wiyono",
+        "e-mail": "agik.wiyono23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310701",
+        "Nama": "Agung Setya Ariowirawan",
+        "e-mail": "agung.ariowirawan23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310004",
+        "Nama": "Andri Darmawan",
+        "e-mail": "andri.darmawan23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310045",
+        "Nama": "Andriano Sheva Muhammad",
+        "e-mail": "andriano.muhammad23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310005",
+        "Nama": "Ari Setia Hinanda",
+        "e-mail": "ari.hinanda23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310006",
+        "Nama": "Arya Putra Irwansyah",
+        "e-mail": "arya.irwansyah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310007",
+        "Nama": "Bayu Nurcahyo",
+        "e-mail": "bayu.nurcahyo23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310047",
+        "Nama": "Dimas Setiawan",
+        "e-mail": "dimas.setiawan23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310008",
+        "Nama": "Dina Maulidyawati",
+        "e-mail": "dina.maulidyawati23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310009",
+        "Nama": "Fais Sofyan Noor",
+        "e-mail": "fais.noor23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310010",
+        "Nama": "Faiz Nurullah",
+        "e-mail": "faiz.nurullah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310011",
+        "Nama": "Firdaus Septia Pratama",
+        "e-mail": "firdaus.pratama23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310012",
+        "Nama": "Gizha Nasywa Islamy Pasya",
+        "e-mail": "gizha.pasya23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310013",
+        "Nama": "Henny Amwariyanti",
+        "e-mail": "henny.amwariyanti23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310014",
+        "Nama": "Karina Cahyasari",
+        "e-mail": "karina.cahyasari23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310015",
+        "Nama": "Latifah Nur Qalbi",
+        "e-mail": "latifah.qalbi23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310042",
+        "Nama": "Livia Febrianti",
+        "e-mail": "livia.febrianti23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310704",
+        "Nama": "M. Ali Fahmi Fajrul Mubarok",
+        "e-mail": "m.mubarok23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310016",
+        "Nama": "Mochamad Dzaki Raka Maulana",
+        "e-mail": "mochamad.maulana232@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310017",
+        "Nama": "Moh Farizal Sholahuddin Ghonni",
+        "e-mail": "moh.ghonni23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310044",
+        "Nama": "Moh. Arlyano Swandaru",
+        "e-mail": "moh.swandaru23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310018",
+        "Nama": "Muchamad Budi Fabiantoro",
+        "e-mail": "muchamad.fabiantoro23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310019",
+        "Nama": "Muhammad Amirun Nadhif",
+        "e-mail": "muhammad.nadhif23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310020",
+        "Nama": "Muhammad Araka Ridhwan Akbar",
+        "e-mail": "muhammad.akbar23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310021",
+        "Nama": "Muhammad Ari Affandi",
+        "e-mail": "muhammad.affandi23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310022",
+        "Nama": "Muhammad Bimo Adyatma Broto",
+        "e-mail": "muhammad.broto23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310043",
+        "Nama": "Muhammad Fakhrudin",
+        "e-mail": "muhammad.fakhrudin23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310023",
+        "Nama": "Muhammad Muqoffin Nuha",
+        "e-mail": "muhammad.nuha23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310024",
+        "Nama": "Muhammad Rafii Firdaus",
+        "e-mail": "muhammad.firdaus23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310702",
+        "Nama": "Muhammad Rafli Afriansyah Ikhsan",
+        "e-mail": "muhammad.ikhsan23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310025",
+        "Nama": "Muhammad Rif'at Syauqy",
+        "e-mail": "muhammad.syauqy23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310026",
+        "Nama": "Muhammad Risky Ardiansyah",
+        "e-mail": "muhammad.ardiansyah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310027",
+        "Nama": "Muhammad Sahbilul Khoir",
+        "e-mail": "muhammad.khoir23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310028",
+        "Nama": "Nabila Rana Pradipta",
+        "e-mail": "nabila.pradipta23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310029",
+        "Nama": "Naila Nur Hidayah",
+        "e-mail": "naila.hidayah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310030",
+        "Nama": "Nasywa Zahrainda Syafana",
+        "e-mail": "nasywa.syafana23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310031",
+        "Nama": "Naufal Alam Haidar",
+        "e-mail": "naufal.haidar23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310050",
+        "Nama": "Panji Rizki Krisna Ridho Sabilillah",
+        "e-mail": "panji.sabilillah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310033",
+        "Nama": "Raditya Wahyu Widigdo",
+        "e-mail": "raditya.widigdo23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310706",
+        "Nama": "Rahmadani Hilda Kholifah",
+        "e-mail": "rahmadani.kholifah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310034",
+        "Nama": "Rahmansyah Ragil Cahyadi",
+        "e-mail": "rahmansyah.cahyadi23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310049",
+        "Nama": "Rasendriyo Reswara Iriawanto",
+        "e-mail": "rasendriyo.iriawanto23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310035",
+        "Nama": "Ratna Agustina",
+        "e-mail": "ratna.agustina23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310036",
+        "Nama": "Rimbhiatho Aurindra",
+        "e-mail": "rimbhiatho.aurindra23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310037",
+        "Nama": "Rio Octavian Mangembulude",
+        "e-mail": "rio.mangembulude23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310038",
+        "Nama": "Rooseno Marchelo Totti Ananda",
+        "e-mail": "rooseno.ananda23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310039",
+        "Nama": "Ruziqna Hadikafilardi Muhtarom",
+        "e-mail": "ruziqna.muhtarom23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310703",
+        "Nama": "Sultan Arya Iskandarsyah",
+        "e-mail": "sultan.iskandarsyah23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310040",
+        "Nama": "Sustri Elina Simamora",
+        "e-mail": "sustri.simamora23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310041",
+        "Nama": "Vickey Dikurnia Andryan",
+        "e-mail": "vickey.andryan23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310705",
+        "Nama": "Miftahul Ulum",
+        "e-mail": "miftahul.ulum23@student.uisi.ac.id"
+    },
+    {
+        "NIM": "3012310051",
+        "Nama": "Alicya Khusnul Chotimah",
+        "e-mail": "alicya.chotimah23@student.uisi.ac.id"
+    }
+]
