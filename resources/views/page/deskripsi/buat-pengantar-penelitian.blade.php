@@ -47,11 +47,11 @@
                                         <div class="col-md-6">
                                             <label for="basic-url" class="form-label">Nama Mahasiswa 2</label>
                                             <div class="mb-5">
-                                                <select class="js-data-basic-single form-control" multiple="multiple"  id="nama_mahasiswa_2" data-nim-input="#nim2" data-name-input="#hidden_nama_mahasiswa_2">  <option></option></select>
+                                                <select class="js-data-basic-single form-control" id="nama_mahasiswa_2" data-nim-input="#nim2" data-name-input="#hidden_nama_mahasiswa_2">  <option></option></select>
                                                 <div class="sugesstions" id="suggestions1"></div>
                                             </div>
                                         </div>
-                                        <div class="col-md-5">
+                                        <div class="col-md-6">
                                             <label for="basic-url" class="form-label">NIM 2</label>
                                             <div class="input-group mb-5">
                                                 <input type="text" class="form-control" id="nim2" aria-describedby="basic-addon3" name="nim_2" readonly />
@@ -91,7 +91,7 @@
                                     </div>
                                     <input type="hidden" id="hidden_nama_mahasiswa_4" name="nama_mahasiswa_4" />
 
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 mb-5">
                                             <label for="no_telepon" class="form-label">Email Mahasiswa 1</label>
                                             <input id="email" type="email" class="form-control" name="email_mahasiswa"  value="{{$data_mahasiswa['mhs_email']}}" readonly/>
                                         </div>
@@ -118,7 +118,7 @@
                                                 id="surat_ditujukan_kepada" />
                                         </div>
 
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 mb-5">
                                             <label for="nama_perusahaan" class="form-label">Nama Perusahaan</label>
                                             <input type="text" class="form-control" name="nama_perusahaan"
                                                 id="nama_perusahaan" />
@@ -137,13 +137,13 @@
                                                 id="kode_pos_perusahaan" />
                                         </div>
 
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 mb-5">
                                             <label for="dosen_pembimbing" class="form-label">Dosen Pembimbing</label>
                                             <input type="text" class="form-control" name="dosen_pembimbing"
                                                 id="dosen_pembimbing" />
                                         </div>
 
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 mb-5">
                                             <label for="waktu_kerja_praktik" class="form-label">Waktu Kerja
                                                 Praktik</label>
                                             <input type="text" class="form-control" name="waktu_kerja_praktik"
@@ -156,7 +156,7 @@
                                                 id="tugas_mata_kuliah" />
                                         </div>
 
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 mb-5">
                                             <label for="topik_judul_yang_dibahas" class="form-label">Topik/Judul yang
                                                 Dibahas</label>
                                             <input type="text" class="form-control" name="topik_judul_yang_dibahas"
@@ -211,7 +211,7 @@
                                             <button type="submit" class="btn btn-primary">
                                                 <span class="indicator-label">Submit</span>
                                             </button>
-                                            <button type="reset" class="btn btn-danger">
+                                            <button type="button" class="btn btn-danger" onclick="window.history.back();">
                                                 <span class="indicator-label">Cancel</span>
                                             </button>
                                         </div>

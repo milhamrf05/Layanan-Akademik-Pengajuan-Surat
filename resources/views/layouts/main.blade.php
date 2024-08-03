@@ -139,12 +139,6 @@ License: For each use you must have a valid license purchased only from above li
     <!--end::App-->
     <!--end::Drawers-->
     <!--begin::Scrolltop-->
-    <div id="kt_scrolltop" class="scrolltop" data-kt-scrolltop="true">
-        <i class="ki-duotone ki-arrow-up">
-            <span class="path1"></span>
-            <span class="path2"></span>
-        </i>
-    </div>
     <!--end::Scrolltop-->
     <!--end::Modal - Invite Friend-->
     <!--end::Modals-->

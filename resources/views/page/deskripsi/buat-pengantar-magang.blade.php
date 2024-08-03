@@ -25,7 +25,7 @@
                                 @csrf
                                 <!--begin::List-->
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-12 mb-3">
                                         <label for=""  class="form-label">Keperluan Surat</label>
                                         <div class="form-check mb-2">
                                             <input class="form-check-input"  value="Magang Reguler" type="radio" name="keperluan" id="flexRadioDefault1">
@@ -34,7 +34,7 @@
                                             </label>
                                           </div>
                                           <div class="form-check">
-                                            <input class="form-check-input"  value="Magang MBKM" type="radio" name="keperluan" id="flexRadioDefault2" checked>
+                                            <input class="form-check-input"  value="Magang MBKM" type="radio" name="keperluan" id="flexRadioDefault2">
                                             <label class="form-check-label" for="flexRadioDefault2">
                                                 Magang MBKM (Konversi Matakuliah)
                                             </label>
@@ -75,7 +75,7 @@
                                         <div class="col-md-6">
                                             <label for="basic-url" class="form-label">Nama Mahasiswa 2</label>
                                             <div class="mb-5">
-                                                <select class="js-data-basic-single form-control"   id="nama_mahasiswa_2" data-nim-input="#nim2" data-name-input="#hidden_nama_mahasiswa_2">
+                                                <select class="js-data-basic-single form-control" id="nama_mahasiswa_2" data-nim-input="#nim2" data-name-input="#hidden_nama_mahasiswa_2">
                                                     <option></option>
                                                 </select>
                                                 <div class="sugesstions" id="suggestions1"></div>
@@ -229,8 +229,7 @@
                                                 <!--begin::Indicator label-->
                                                 <span class="indicator-label">Submit</span>
                                             </button>
-                                            <button type="submit" class="btn btn-danger" id="kt_contact_submit_button">
-                                                <!--begin::Indicator label-->
+                                            <button type="button" class="btn btn-danger" onclick="window.history.back();">
                                                 <span class="indicator-label">Cancel</span>
                                             </button>
                                         </div>

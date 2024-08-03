@@ -35,8 +35,7 @@
                                             <!--begin::Indicator label-->
                                             <span class="indicator-label">Submit</span>
                                         </button>
-                                        <button type="submit" class="btn btn-danger" id="kt_contact_submit_button">
-                                            <!--begin::Indicator label-->
+                                        <button type="button" class="btn btn-danger" onclick="window.history.back();">
                                             <span class="indicator-label">Cancel</span>
                                         </button>
                                     </div>

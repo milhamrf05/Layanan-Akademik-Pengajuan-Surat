@@ -73,8 +73,7 @@
                                                 <!--begin::Indicator label-->
                                                 <span class="indicator-label">Submit</span>
                                             </button>
-                                            <button type="cancel" class="btn btn-danger">
-                                                <!--begin::Indicator label-->
+                                            <button type="button" class="btn btn-danger" onclick="window.history.back();">
                                                 <span class="indicator-label">Cancel</span>
                                             </button>
                                         </div>

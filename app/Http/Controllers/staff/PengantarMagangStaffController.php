@@ -260,7 +260,6 @@ class PengantarMagangStaffController extends Controller
          
         $templateProcessor = new TemplateProcessor($templatePath);
         $templateProcessor->setValue('no_hp', $formSurat->no_hp);
-        $templateProcessor->setValue('nama_mahasiswa_1', $formSurat->nama_mahasiswa_1);
         $templateProcessor->setValue('email_mahasiswa', $formSurat->email_mahasiswa);
         $templateProcessor->setValue('tanggal_surat', $this->formatTanggal(now())); // Menggunakan tanggal saat ini
         $templateProcessor->setValue('jurusan', $formSurat->jurusan);
@@ -311,7 +310,8 @@ class PengantarMagangStaffController extends Controller
                 $templateProcessor->setValue($key, $value);
             }
         }
-
+        
+        $templateProcessor->setValue('nama_mahasiswa_1', $formSurat->nama_mahasiswa_1);
         // Simpan dokumen baru dengan UUID sebagai nama file
         $newFileName = Uuid::uuid4()->toString() . '.docx';
         $newFilePath = 'documents/' . $newFileName;

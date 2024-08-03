@@ -42,68 +42,72 @@ License: For each use you must have a valid license purchased only from above li
 		<script>var defaultThemeMode = "light"; var themeMode; if ( document.documentElement ) { if ( document.documentElement.hasAttribute("data-bs-theme-mode")) { themeMode = document.documentElement.getAttribute("data-bs-theme-mode"); } else { if ( localStorage.getItem("data-bs-theme") !== null ) { themeMode = localStorage.getItem("data-bs-theme"); } else { themeMode = defaultThemeMode; } } if (themeMode === "system") { themeMode = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"; } document.documentElement.setAttribute("data-bs-theme", themeMode); }</script>
 		<!--end::Theme mode setup on page load-->
 		<!--begin::Root-->
-		<div class="d-flex flex-column flex-root" id="kt_app_root">
-			<!--begin::Page bg image-->
-			<!--end::Page bg image-->
-			<!--begin::Authentication - Sign-in -->
-			<div class="d-flex flex-column flex-lg-row flex-column-fluid">
-				<!--begin::Aside-->
-				<div class="d-flex flex-lg-row-fluid">
-					<!--begin::Content-->
-					<div class="d-flex flex-column flex-center pb-0 pb-lg-10 p-10 w-100">
-						<!--begin::Image-->
-						<img class="theme-light-show mx-auto mw-100 w-500px w-lg-500px mb-10 mb-lg-20" src="{{ asset('assets/media/logo/silo uisi.jpg') }}" alt="" />
-						<!--end::Image-->
-					</div>
-					<!--end::Content-->
-				</div>
-				<!--begin::Aside-->
-				<!--begin::Body-->
-				<div class="d-flex flex-column-fluid flex-lg-row-auto justify-content-center justify-content-lg-end p-12">
-					<!--begin::Wrapper-->
-					<div class="bg-body d-flex flex-column flex-center rounded-4 w-md-600px p-10">
-						<!--begin::Content-->
-						<div class="d-flex flex-center flex-column align-items-stretch h-lg-100 w-md-400px">
-							<!--begin::Wrapper-->
-							<div class="d-flex flex-center flex-column flex-column-fluid pb-15 pb-lg-20">
-								<!--begin::Form-->
-								<form class="form w-100" novalidate="novalidate" id="kt_sign_in_form" data-kt-redirect-url="index.html" action="#">
-									<!--begin::Heading-->
-									<div class="text-center mb-11">
-										<!--begin::Title-->
-										<h1 class="text-gray-900 fw-bolder mb-3">Sign In</h1>
-										<!--end::Title-->
-										<!--begin::Subtitle-->
-										<div class="text-gray-500 fw-semibold fs-6">Selamat datang di sistem single sign on Universitas Internasional Semen Indonesia</div>
-										<!--end::Subtitle=-->
-									</div>
-									<!--begin::Heading-->
-									<!--begin::Login options-->
-									<div class="row g-3 mb-9">
-										<!--begin::Col-->
-										<div class="col-md-12">
-											<!--begin::Google link=-->
-											<a href="{{ url('auth/google') }}" class="btn btn-flex btn-outline btn-text-gray-700 btn-active-color-primary bg-state-light flex-center text-nowrap w-100">
-											<img alt="Logo" src="{{ asset('assets/media/svg/brand-logos/google-icon.svg') }}" class="h-15px me-3" />Sign in with Google</a>
-											<!--end::Google link=-->
-										</div>
-									</div>
-									<!--end::Login options-->
-								</form>
-								<!--end::Form-->
-							</div>
-							<!--end::Wrapper-->
-							<!--begin::Footer-->
-							<!--end::Footer-->
-						</div>
-						<!--end::Content-->
-					</div>
-					<!--end::Wrapper-->
-				</div>
-				<!--end::Body-->
-			</div>
-			<!--end::Authentication - Sign-in-->
-		</div>
+		<div class="d-flex flex-column flex-root vh-100" id="kt_app_root">
+    <!--begin::Page bg image-->
+    <!--end::Page bg image-->
+    <!--begin::Authentication - Sign-in -->
+    <div class="d-flex flex-column flex-lg-row flex-column-fluid h-100">
+        <!--begin::Aside-->
+        <div class="d-flex flex-lg-row-fluid h-100">
+            <!--begin::Content-->
+            <div class="d-flex flex-column flex-center pb-0 pb-lg-10 p-10 w-100">
+                <!--begin::Image-->
+                <img class="theme-light-show mx-auto mw-100 h-100" src="{{ asset('assets/media/logo/silo uisi.jpg') }}" alt="" style="width: 100%; height: auto; margin: 0;" />
+                <!--end::Image-->
+            </div>
+            <!--end::Content-->
+        </div>
+        <!--end::Aside-->
+        <!--begin::Body-->
+        <div class="d-flex flex-column-fluid flex-lg-row-auto justify-content-center justify-content-lg-end p-12">
+            <!--begin::Wrapper-->
+            <div class="bg-body d-flex flex-column flex-center rounded-4 w-md-500px p-10">
+                <!--begin::Content-->
+                <div class="d-flex flex-center flex-column align-items-stretch h-lg-100 w-md-400px">
+					<div class="text-row mb-5">
+                        <img src="{{ asset('assets/media/logos/logo.png') }}" alt="Logo Universitas" style="width: 200px; height: auto;">
+                    </div>
+                    <!--begin::Wrapper-->
+                    <div class="d-flex flex-center flex-column flex-column-fluid pb-15 pb-lg-20">
+                        <!--begin::Form-->
+                        <form class="form w-100" novalidate="novalidate" id="kt_sign_in_form" data-kt-redirect-url="index.html" action="#">
+                            <!--begin::Heading-->
+                            <div class="text-center mb-11">
+                                <!--begin::Title-->
+                                <h1 class="text-gray-900 fw-bolder mb-3">Login Aplikasi Layanan Akademik</h1>
+                                <!--end::Title-->
+                                <!--begin::Subtitle-->
+                                <div class="text-gray-500 fw-semibold fs-6">Selamat datang di sistem Aplikasi Layanan Akademik Universitas Internasional Semen Indonesia</div>
+                                <!--end::Subtitle-->
+                            </div>
+                            <!--begin::Heading-->
+                            <!--begin::Login options-->
+                            <div class="row g-3 mb-9">
+                                <!--begin::Col-->
+                                <div class="col-md-12">
+                                    <!--begin::Google link=-->
+                                    <a href="{{ url('auth/google') }}" class="btn btn-flex btn-outline btn-text-gray-700 btn-active-color-primary bg-state-light flex-center text-nowrap w-100">
+                                    <img alt="Logo" src="{{ asset('assets/media/svg/brand-logos/google-icon.svg') }}" class="h-15px me-3" />Sign in with Google</a>
+                                    <!--end::Google link=-->
+                                </div>
+                            </div>
+                            <!--end::Login options-->
+                        </form>
+                        <!--end::Form-->
+                    </div>
+                    <!--end::Wrapper-->
+                    <!--begin::Footer-->
+                    <!--end::Footer-->
+                </div>
+                <!--end::Content-->
+            </div>
+            <!--end::Wrapper-->
+        </div>
+        <!--end::Body-->
+    </div>
+    <!--end::Authentication - Sign-in-->
+</div>
+
 		<!--end::Root-->
 		<!--begin::Javascript-->
 		<script>var hostUrl = "assets/";</script>

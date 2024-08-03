@@ -49,7 +49,7 @@ class PengunduranDiriController extends Controller
                             $fetchMahasiswaService = new FetchMahasiswaService();
                             $mahasiswa = $fetchMahasiswaService->fetchDataMahasiswa($user->email);
 
-        return view('page.pengunduran-diri.create', compact('mahasiswa'));
+        return view('page.deskripsi.buat-pengunduran-diri', compact('mahasiswa'));
     }
 
     public function store(Request $request){
@@ -101,6 +101,7 @@ class PengunduranDiriController extends Controller
         }
 
         return response()->make('<script>alert("File not found");</script>', 404, ['Content-Type' => 'text/html']);
+        return back();
     }
 
     public function setujui($id){
